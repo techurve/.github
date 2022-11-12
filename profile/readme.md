@@ -1,6 +1,8 @@
 # Techurve
 
-<img src="/profile/Profile_TC.png" height=64 style="margin-left: auto; margin-right: auto; display: block;" />
+<p align="center">
+<img src="./Profile_TC.png" style="height: 64px" />
+</p>
 
 ---
 
@@ -14,6 +16,7 @@
 
 ## Tech Stack & Tools
 
+<p style="display: flex; gap: 6px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="38" height="38"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="38" height="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="38" />
