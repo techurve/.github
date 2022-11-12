@@ -1,7 +1,7 @@
 # Techurve
 
 <p align="center">
-<img src="./Profile_TC.png" style="height: 64px" />
+<img src="/profile/Profile_TC.png" style="height: 64px" />
 </p>
 
 ---
