@@ -1,6 +1,6 @@
 # Techurve
 
-<img src="Profile_TC.png" height=64 style="margin-left: auto; margin-right: auto; display: block;" />
+<img src="/profile/Profile_TC.png" height=64 style="margin-left: auto; margin-right: auto; display: block;" />
 
 ---
 
